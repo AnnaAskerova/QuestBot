@@ -33,9 +33,9 @@
 
 ## Над проектом работают
 ### "The Coffee Coders"
-* **Владимир** - *Начинающий backend-developer* - [GitHub](https://github.com/ezuykow/)
-* **Дмитрий** - *Начинающий backend-developer* - [GitHub](https://github.com/AblDm)
-* **Анатолий** - *Начинающий backend-developer* - [GitHub](https://github.com/Virusec)
-* **Анна** - *Начинающий backend-developer* - [GitHub](https://github.com/AnnaAskerova)
-* **Максим** - *Начинающий backend-developer* - [GitHub](https://github.com/maks2001916)
+* **Владимир** - [GitHub](https://github.com/ezuykow/)
+* **Дмитрий** - [GitHub](https://github.com/AblDm)
+* **Анатолий** - [GitHub](https://github.com/Virusec)
+* **Анна** - [GitHub](https://github.com/AnnaAskerova)
+* **Максим** - [GitHub](https://github.com/maks2001916)
 
